@@ -1,5 +1,8 @@
 #!/bin/bash
 
+PERSON1=Team Lead
+PERSON2=DevOps Engineer
+
 echo "Team Lead: Good morning! How are you?"
 echo "DevOps Engineer: Good morning! I am doing well."
 echo "Team Lead: What are you working on today?"
