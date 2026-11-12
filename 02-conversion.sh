@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Team Lead: Good morning! How are you?"
+echo "DevOps Engineer: Good morning! I am doing well."
+echo "Team Lead: What are you working on today?"
+echo "DevOps Engineer: I am working on AWS and Shell Scripting."
+echo "Team Lead: What is Shell Scripting?"
+echo "DevOps Engineer: Shell Scripting is used to automate Linux tasks."
+echo "Team Lead: Can you give me an example?"
+echo "DevOps Engineer: Yes! We can automate backups, monitoring, and deployments."
+echo "Team Lead: Which command do you use to check disk space?"
+echo "DevOps Engineer: I use the df -h command."
+echo "Team Lead: Excellent! Keep learning."
+echo "DevOps Engineer: Thank you!"
+echo "Team Lead: Have a great day!"
+echo "DevOps Engineer: You too!"
