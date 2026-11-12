@@ -2,4 +2,4 @@
 
 echo "enter your name"
 read USERNAME
-echo "enter your name:"
+echo "enter your name $USERNAME:"
