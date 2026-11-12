@@ -1,7 +1,6 @@
 #!/bin/bash
 PERSON1="Team Lead"
 PERSON2="DevOps Engineer"
-PERSON=$PERSON2
 
 echo "$PERSON1: Good morning! How are you?"
 echo "$PERSON2: Good morning! I am doing well."
