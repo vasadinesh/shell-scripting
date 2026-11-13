@@ -9,6 +9,7 @@ AMI_ID="ami-096ef200a877f36af"
 INSTANCE_TYPE="t2.micro"
 KEY_NAME="pair"
 SECURITY_GROUP="sg-0ad7599f9ea7a0c24"
+COUNT=2
 
 echo "Creating EC2 Instance..."
 
