@@ -9,4 +9,4 @@ echo "sum is: $SUM"
 
 MOVIE=("RANGAM" "PUSHPA" "KARHI")
 echo "movie is: ${MOVIE[@]}"
-echo "movie is: ${MOVIE[0]}"
+echo "movie is: ${MOVIE[2]}"
