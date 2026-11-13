@@ -4,6 +4,7 @@
 # EC2 Instance Configuration
 
 REGION="us-east-1"
+INSTANCE_NAME="MyEC2Instance"
 AMI_ID="ami-096ef200a877f36af"
 INSTANCE_TYPE="t2.micro"
 KEY_NAME="pair"
